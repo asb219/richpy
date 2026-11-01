@@ -1,6 +1,8 @@
 # richpy
 
-Python interface for the Radiocarbon Inventories of Switzerland ([RICH](https://rich.ethz.ch)) database.
+[![DOI](https://zenodo.org/badge/1009811476.svg)](https://doi.org/10.5281/zenodo.23856048)
+
+Python interface for the Radiocarbon Inventories of Switzerland database (RICH: [rich.ethz.ch](https://rich.ethz.ch))
 
 
 ## Install
